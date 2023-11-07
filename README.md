@@ -1,3 +1,5 @@
+theme: architect
+![image](https://github.com/23W-GBAC/Boves556_Lucky/assets/148862792/6f942e35-2a2d-4da0-81d6-59e37749596f)
 # blog_Video Gaming health benefits
 My name Lucky a student of DIT, I would be talking about the health benefits of video gaming.
 # Health benefits:
@@ -34,4 +36,5 @@ Video gaming, when done in **moderation and with awareness**, can offer several 
 15. **Dexterity and Fine Motor Skills**: Games that involve precise control, such as those using controllers, keyboards, or touchscreens, can enhance dexterity and fine motor skills.
 
 It's important to note that the benefits of video gaming can vary depending on the type of games played, the amount of time spent gaming, and the individual's overall lifestyle. For optimal health benefits, **moderation is key**. It's also crucial to be mindful of potential drawbacks, such as sedentary behavior, excessive screen time, and addiction. Balancing gaming with physical activity, social interaction, and other healthy habits is essential for overall well-being.
-**Source:** Chat GPT
+#**Source(s):** 
+Chat GPT
