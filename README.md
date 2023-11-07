@@ -1,4 +1,3 @@
-theme: architect
 ![image](https://github.com/23W-GBAC/Boves556_Lucky/assets/148862792/6f942e35-2a2d-4da0-81d6-59e37749596f)
 # blog_Video Gaming health benefits
 My name Lucky a student of DIT, I would be talking about the health benefits of video gaming.
