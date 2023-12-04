@@ -35,5 +35,6 @@ Video gaming, when done in **moderation and with awareness**, can offer several 
 15. **Dexterity and Fine Motor Skills**: Games that involve precise control, such as those using controllers, keyboards, or touchscreens, can enhance dexterity and fine motor skills.
 
 It's important to note that the benefits of video gaming can vary depending on the type of games played, the amount of time spent gaming, and the individual's overall lifestyle. For optimal health benefits, **moderation is key**. It's also crucial to be mindful of potential drawbacks, such as sedentary behavior, excessive screen time, and addiction. Balancing gaming with physical activity, social interaction, and other healthy habits is essential for overall well-being.
-#**Source(s):** 
+
+**Source(s):** 
 Chat GPT
