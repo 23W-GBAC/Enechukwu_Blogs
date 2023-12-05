@@ -10,11 +10,23 @@ Engaging in video gaming has been found to be a beneficial avenue for stress red
 
 The engagement in gaming activities triggers the release of neurotransmitters such as dopamine and endorphins, which are known to contribute to mood regulation and a sense of reward. For instance, when a player successfully completes a challenging level or achieves a goal within a game, there is a release of these neurotransmitters, creating a positive reinforcement loop. Moreover, the immersive nature of gaming induces a state of focused attention, diverting cognitive resources from stress-inducing stimuli. This diversion, coupled with the cognitive challenges presented in games, can lead to the activation of the prefrontal cortex and hippocampus, areas associated with emotion regulation and memory consolidation. Collectively, these neurobiological responses contribute to the stress-alleviating effects observed in individuals who engage in video gaming.
 
-2. **Cognitive Skills**: Many video games challenge the brain and enhance cognitive skills, including problem-solving, critical thinking, memory, spatial awareness, and quick decision-making.
+# Cognitive Skills 
+Video gaming has been shown to enhance cognitive skills through a variety of mechanisms. Many games require players to engage in complex problem-solving, strategic planning, and decision-making, stimulating cognitive processes such as executive functions and working memory. The interactive nature of gaming demands rapid information processing and the ability to adapt to dynamic environments, fostering improved attention and concentration. Additionally, certain games, particularly those in the genre of puzzles or strategy, can enhance spatial reasoning and logical thinking. Regular engagement in video gaming has been associated with neuroplasticity, encouraging the development of neural pathways associated with cognitive functions. Overall, the challenges presented in video games contribute to cognitive skill development, making gaming a potentially beneficial activity for honing various mental abilities.
 
-3. **Hand-Eye Coordination**: Action video games often require precise hand-eye coordination, improving fine motor skills and reflexes.
+In medical terms, video gaming has demonstrated its capacity to enhance cognitive skills by engaging neural networks associated with executive functions and memory. For instance, action-oriented video games require rapid decision-making and coordination, activating regions in the prefrontal cortex and hippocampus. These areas play crucial roles in working memory, spatial navigation, and strategic planning. The repeated exposure to cognitive challenges in gaming may lead to neuroadaptive changes, promoting synaptic plasticity and the development of efficient neural pathways. Moreover, the sustained attention required during gaming sessions contributes to improved concentration and processing speed. The cumulative effect of these cognitive demands in video gaming is a potential enhancement of various mental faculties, underscoring its relevance in neuroscientific discussions surrounding cognitive skill development.
+
+# Hand-Eye Coordination 
+Video gaming is recognized for its positive impact on hand-eye coordination, a critical aspect of motor skills and spatial awareness. Many video games demand precise and timely control inputs, requiring players to coordinate visual information with manual actions. For instance, in action or simulation games, players often navigate complex virtual environments, reacting to visual cues in real-time to control characters or manipulate objects. This constant interplay between visual perception and motor response enhances the synchronization of hand movements with visual stimuli. This improvement in hand-eye coordination is particularly evident in tasks that involve aiming, tracking moving objects, or executing intricate sequences of actions. Regular engagement in video gaming can contribute to the refinement of fine motor skills and the development of a more nuanced and efficient hand-eye coordination, skills that can extend beyond the gaming environment into daily activities.
+
+An article from the National Library of Medicine talks about an experiment done by Griffith and colleagues, the article says they published the first finding demonstrating individuals with video-game experience outperforming those with no video-game experience. They also reported superior performance by Video Game Participants on a rotary pursuit task, suggesting they possessed enhanced hand-eye coordination. 
+
+Video gaming has also been known to be beneficial for individuals with Neurological Conditions, Attention Deficit Hyperactivity Disorder (ADHD), Dyslexia and Parkinson's Disease.
+
+**Disclaimer:** Before you continue reading, its important to note that for people with the conditions mentioned above, a doctor's advice should be taken on if they can be allowed to play video games or not.
 
 4. **Multitasking Abilities**: Some video games, especially strategy games, require players to manage multiple tasks simultaneously, which can enhance multitasking abilities.
+
+![image](https://github.com/23W-GBAC/Boves556_Lucky/assets/148862792/aed2e835-a4b7-40d1-9320-85a31980477d)
 
 5. **Social Interaction**: Multiplayer online games and co-op games promote social interaction and teamwork, both of which are crucial for mental well-being.
 
@@ -32,13 +44,15 @@ The engagement in gaming activities triggers the release of neurotransmitters su
 
 12. **Social Support**: Online gaming communities can provide a sense of belonging and support, reducing feelings of isolation and loneliness.
 
-13. **Mood Enhancement**: Playing enjoyable and immersive video games can boost mood and alleviate symptoms of depression and anxiety for some individuals.
+![image](https://github.com/23W-GBAC/Boves556_Lucky/assets/148862792/9adb6264-7f86-443e-8b57-cad5ff2ee688)
 
-14. **Puzzle Solving and Logic**: Many games, particularly puzzle games, challenge players' logical thinking and problem-solving skills.
+14. **Mood Enhancement**: Playing enjoyable and immersive video games can boost mood and alleviate symptoms of depression and anxiety for some individuals.
 
-15. **Dexterity and Fine Motor Skills**: Games that involve precise control, such as those using controllers, keyboards, or touchscreens, can enhance dexterity and fine motor skills.
+15. **Puzzle Solving and Logic**: Many games, particularly puzzle games, challenge players' logical thinking and problem-solving skills.
+
+16. **Dexterity and Fine Motor Skills**: Games that involve precise control, such as those using controllers, keyboards, or touchscreens, can enhance dexterity and fine motor skills.
 
 It's important to note that the benefits of video gaming can vary depending on the type of games played, the amount of time spent gaming, and the individual's overall lifestyle. For optimal health benefits, **moderation is key**. It's also crucial to be mindful of potential drawbacks, such as sedentary behavior, excessive screen time, and addiction. Balancing gaming with physical activity, social interaction, and other healthy habits is essential for overall well-being.
 
 **Source(s):** 
-Chat GPT
+Chat GPT, Unsplash, National Library of Medicine (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3772618/)
