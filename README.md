@@ -1,6 +1,6 @@
 ![image](https://github.com/23W-GBAC/Boves556_Lucky/assets/148862792/6f942e35-2a2d-4da0-81d6-59e37749596f)
 # Video Gaming health benefits
-My name Lucky, a 1st semester student of Deggendorf Institute of Technology. Today, one of the most underrated and disregarded activities in our society is video gaming. However, the aim of this blog is to convince its readers that video gaming has some vital health benefits.
+My name Lucky, a 1st semester student of Deggendorf Institute of Technology. My blog is about one of the most underrated and disregarded activities in our society which is video gaming. The aim of this blog is to convince its readers that video gaming has some vital health benefits.
 
 Before we proceed, it's important to point out that like other activities, when video gaming is excessively done, there would be disadvantages; too much of an activity is not good, there should always be a balance. When done in **moderation and with awareness**, Video gaming can offer several health-related advantages. 
 
