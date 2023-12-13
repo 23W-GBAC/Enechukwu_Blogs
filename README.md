@@ -55,4 +55,4 @@ Video gaming serves as a conduit for social support, fostering connections and c
 It's important to note that the benefits of video gaming can vary depending on the type of games played, the amount of time spent gaming, and the individual's overall lifestyle. For optimal health benefits, **moderation is key**. It's also crucial to be mindful of potential drawbacks, such as sedentary behavior, excessive screen time, and addiction. Balancing gaming with physical activity, social interaction, and other healthy habits is essential for overall well-being.
 
 **Source(s):** 
-Unsplash, National Library of Medicine (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3772618/)
+ChatGPT, Unsplash, National Library of Medicine (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3772618/)
