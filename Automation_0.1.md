@@ -45,4 +45,5 @@ if __name__ == "__main__":
     monitor_and_output()
 ```
 
-# How to proper run the script:
+# How to properly run the script:
+
