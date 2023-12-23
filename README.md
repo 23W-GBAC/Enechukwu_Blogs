@@ -54,5 +54,9 @@ Video gaming serves as a conduit for social support, fostering connections and c
 
 It's important to note that the benefits of video gaming can vary depending on the type of games played, the amount of time spent gaming, and the individual's overall lifestyle. For optimal health benefits, **moderation is key**. It's also crucial to be mindful of potential drawbacks, such as sedentary behavior, excessive screen time, and addiction. Balancing gaming with physical activity, social interaction, and other healthy habits is essential for overall well-being.
 
-**Source(s):** 
+One of the major problems gamers encounter is inconsistent performance and network issues. These problems are mostly encountered by PC gamers. They mostly encounter these problems because they are able to always know their internet speed test, GPU and CPU usage. In my automation blog, I have provided a solution to this problem, I have written a script that constantly checks the CPU speed and Internet speed on intervals based on users preference. You can click on the Automation link below to access this information.
+
+###### **Source(s):** 
 ChatGPT, Unsplash, National Library of Medicine (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3772618/)
+
+## [Automation](Automation.md)
