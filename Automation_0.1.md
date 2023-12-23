@@ -12,7 +12,7 @@ My Python script provides a straight forward answer to these questions. Its impo
 # Full Script:
 **Note:** Please do not run the script until you have read how to run it.
 
-```python
+```
 import psutil
 import speedtest
 import time
