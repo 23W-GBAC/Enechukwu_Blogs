@@ -12,7 +12,7 @@ My Python script provides a straight forward answer to these questions. Its impo
 # Full Script:
 **Note:** Please do not run the script until you have read how to run it.
 
-'''python
+```python
 import psutil
 import speedtest
 import time
@@ -25,8 +25,8 @@ def get_memory_usage():
 
 def get_network_speed():
     st = speedtest.Speedtest()
-    download_speed = st.download() / 10**6  # Convert to Mbps
-    upload_speed = st.upload() / 10**6  # Convert to Mbps
+    download_speed = st.download() / 10**6
+    upload_speed = st.upload() / 10**6
     return download_speed, upload_speed
 
 def monitor_and_output():
@@ -42,6 +42,7 @@ def monitor_and_output():
         time.sleep(5)
 
 if __name__ == "__main__":
-    monitor_and_output() '
+    monitor_and_output()
+```
 
 # How to proper run the script:
