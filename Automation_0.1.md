@@ -1,13 +1,13 @@
-# Dec 23: Week_1: Script Explanation
+# Dec 23: Week_1: Introduction to my automation script and how to run it:
 
 My blog will be divided into 4 parts and I will be adding a link to the next automation blog at the end of each blog. Please, feel free to contribute to my blog, by doing so, we can improve the script and share ideas on how to make it better. Also let me know if you encounter any problems while running the script.
 
-My first blog provides a proper explanation of the script and how to run it properly. Its important to note that the language used to run the script is python.
+My first blog provides an introduction to my script and how to run it properly. Its important to note that the language used to run the script is python.
 
 # INTRODUCTION:
 Have you ever wondered how much of your computer's processing power is being used or how quickly it's communicating with the internet while gaming? These are crucial questions a gamer should always ask, especially gamers that play games like Call of duty and other games that require stable internet connection to peek perfomance.
 
-My Python script provides a straight forward answer to these questions. Its important to note that this script can also be used by non-gamers that need constant information regarding their computer performance and internet speed. Lets get right into it.
+My Python script provides a straight forward answer to these questions. Its important to note that this script can also be used by non-gamers that need constant information regarding their computer performance and internet speed. So!, lets get right into it.
 
 # FULL SCRIPT:
 **Note:** Please do not run the script until you have read how to run it.
@@ -93,7 +93,7 @@ Both tools can be installed using the following command:
 pip install psutil speedtest-cli
 ```
 
-# Step 4: Create and Run the Script
+# Step 4: Create a file and save the script:
 The next step is to create a file (e.g., performance_script.py) and copy and paste the Python script into it.
 You can create a file using the following command
 ```
@@ -105,4 +105,19 @@ Use the following command to open the file in vim text editor.
 vim performance_script.py
 ```
 You can also nano and other text editors. Once you opened the file, copy and paste the full script then save and exit.
+
+# Step 5: Run the Script
+This is the final step. Once you've saved the script and exited, you can run it using the following command:
+```
+python performance_script.py
+```
+
+Once you're done running the script, you can stop it using **ctrl+c**. You can also deactivate the virtual environment by running the following command:
+```
+deactivate
+```
+
+My next blog gives a proper explanation of the script, its important you read it as it will help you understand the script and modify it to suit your needs. You can access my next blog by clicking the link below.
+
+
 
