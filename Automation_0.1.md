@@ -112,7 +112,8 @@ This is the final step. Once you've saved the script and exited, you can run it 
 python performance_script.py
 ```
 
-Once you're done running the script, you can stop it using **ctrl+c**. You can also deactivate the virtual environment by running the following command:
+# HOW TO STOP RUNNING THE SCRIPT AND HOW TO DEACTIVATE THE VIRTUAL ENVIRONMENT:
+Once you're done running the script, you can stop it using **ctrl+c** to stop running it. You can also deactivate the virtual environment by running the following command:
 ```
 deactivate
 ```
