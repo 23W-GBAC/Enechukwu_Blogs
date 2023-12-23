@@ -2,7 +2,7 @@
 
 My blog will be divided into 4 parts and I will be adding a link to the next automation blog at the end of each blog. Please, feel free to contribute to my blog, by doing so, we can improve the script and share ideas on how to make it better. Also let me know if you encounter any problems while running the script.
 
-My first blog provides a proper explanation of the script and how to run it properly. 
+My first blog provides a proper explanation of the script and how to run it properly. Its important to note that the language used to run the script is python.
 
 # INTRODUCTION:
 Have you ever wondered how much of your computer's processing power is being used or how quickly it's communicating with the internet while gaming? These are crucial questions a gamer should always ask, especially gamers that play games like Call of duty and other games that require stable internet connection to peek perfomance.
@@ -76,8 +76,33 @@ Create a virtual environment named 'venv'
 python3 -m venv venv
 ```
 
-# Step 3:
-The tools required to run a code properly is **psutil and speedtest-cli**. 
+# Step 2: Activate the Virtual Environment
+Activate the virtual environment by running the following command:
+```
+source venv/bin/activate
+```
+
+# Step 3: Install the required tools:
+The tools required to run a code properly is **psutil and speedtest-cli**.
+
 **psutil** is a python library that allows us to access information about system utilization, including CPU and memory usage. 
+
 On the other hand, **speedtest-cli** is also a python library that we can use to perform internet speed tests, measuring both download and upload speeds.
+Both tools can be installed using the following command:
+```
+pip install psutil speedtest-cli
+```
+
+# Step 4: Create and Run the Script
+The next step is to create a file (e.g., performance_script.py) and copy and paste the Python script into it.
+You can create a file using the following command
+```
+touch performance_script.py
+```
+
+Use the following command to open the file in vim text editor.
+```
+vim performance_script.py
+```
+You can also nano and other text editors. Once you opened the file, copy and paste the full script then save and exit.
 
