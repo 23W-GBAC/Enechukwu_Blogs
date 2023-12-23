@@ -9,7 +9,7 @@ Have you ever wondered how much of your computer's processing power is being use
 
 My Python script provides a straight forward answer to these questions. Its important to note that this script can also be used by non-gamers that need constant information regarding their computer performance and internet speed. So!, lets get right into it.
 
-# FULL SCRIPT:
+# FULL AUTOMATION SCRIPT:
 **Note:** Please do not run the script until you have read how to run it.
 
 ```
