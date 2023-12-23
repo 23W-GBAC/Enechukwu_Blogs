@@ -59,4 +59,4 @@ One of the major problems gamers encounter is inconsistent performance and netwo
 ###### **Source(s):** 
 ChatGPT, Unsplash, National Library of Medicine (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3772618/)
 
-## [Automation](Automation.md)
+## [Automation_blog1](Automation.md)
