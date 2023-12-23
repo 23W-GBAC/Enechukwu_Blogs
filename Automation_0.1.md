@@ -1,4 +1,4 @@
-#Dec 23: Week_1: Script Explanation
+# Dec 23: Week_1: Script Explanation
 
 My blog will be divided into 4 parts. My first blog provides a proper explanation of the script and how to run it properly.
 
