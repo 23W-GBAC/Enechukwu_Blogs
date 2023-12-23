@@ -83,7 +83,7 @@ source venv/bin/activate
 ```
 
 # Step 3: Install the required tools:
-The tools required to run a code properly is **psutil and speedtest-cli**.
+The tools needed to run this code properly is **psutil and speedtest-cli**.
 
 **psutil** is a python library that allows us to access information about system utilization, including CPU and memory usage. 
 
