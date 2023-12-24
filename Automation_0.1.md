@@ -120,5 +120,4 @@ deactivate
 
 My next blog gives a proper explanation of the script, its important you read it as it will help you understand the script and modify it to suit your needs. You can access my next blog by clicking the link below.
 
-
-
+## [Automation_blog2](Automation_0.2.md)
