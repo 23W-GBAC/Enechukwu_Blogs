@@ -1,11 +1,11 @@
 # Dec 23: Week_1: Introduction to my automation script and how to run it:
 
-My blog will be divided into 4 parts and I will be adding a link to the next automation blog at the end of each blog. Please, feel free to contribute to my blog, by doing so, we can improve the script and share ideas on how to make it better. Also let me know if you encounter any problems while running the script.
+My blog will be divided into four parts and I will be adding a link to the next automation blog at the end of each blog. Please, feel free to contribute to my blog, by doing so, we can improve the script and share ideas on how to make it better. Also let me know if you encounter any problems while running the script.
 
 My first blog provides an introduction to my script and how to run it properly. Its important to note that the language used to run the script is python.
 
 # INTRODUCTION:
-Have you ever wondered how much of your computer's processing power is being used or how quickly it's communicating with the internet while gaming? These are crucial questions a gamer should always ask, especially gamers that play games like Call of duty and other games that require stable internet connection to peek perfomance.
+Have you ever wondered how much of your computer's processing power is being used or how quickly it's communicating with the internet while gaming? These are crucial questions a gamer should always ask, especially gamers that play games like Call of duty and other games that require a stable internet connection and peek perfomance.
 
 My Python script provides a straight forward answer to these questions. Its important to note that this script can also be used by non-gamers that need constant information regarding their computer performance and internet speed. So!, lets get right into it.
 
@@ -51,14 +51,14 @@ After a lot of trial and error in trying to figure out how to run the script pro
 # Step 1: Command line
 First, a **command line (cli)** is needed to run the code. In my case, I used Ubuntu through WSL on windows, because of these my commands would be mostly based on Ubuntu but it could also be similar to other command line commands. 
 
-# Step 2: Create a new file and a virtual environment
+# Step 2: Create a new directory and a virtual environment
 Create a new directory on your cli.
 ```
 mkdir my_directory
 ```
 Change 'my_directory' to whatever name you want.
 
-In the new directory, create a virtual environment. Using a virtual environment in Ubuntu allows you to create isolated Python environments for your projects, each with its own set of dependencies. This helps prevent conflicts between different projects that might require different package versions.
+In the new directory, create a virtual environment. Using a virtual environment in cli allows you to create isolated Python environments for your projects, each with its own set of dependencies. This helps prevent conflicts between different projects that might require different package versions.
 Run the following commands to create a virtual environment:
 ```
 cd my_directory
@@ -82,7 +82,7 @@ Activate the virtual environment by running the following command:
 source venv/bin/activate
 ```
 
-# Step 3: Install the required tools:
+# Step 3: Install the required tools
 The tools needed to run this code properly is **psutil and speedtest-cli**.
 
 **psutil** is a python library that allows us to access information about system utilization, including CPU and memory usage. 
@@ -93,8 +93,8 @@ Both tools can be installed using the following command:
 pip install psutil speedtest-cli
 ```
 
-# Step 4: Create a file and save the script:
-The next step is to create a file (e.g., performance_script.py) and copy and paste the Python script into it.
+# Step 4: Save the script in a file
+The next step is to create a file (e.g., performance_script.py), copy and paste the Python script into it and save it.
 You can create a file using the following command
 ```
 touch performance_script.py
@@ -104,7 +104,7 @@ Use the following command to open the file in vim text editor.
 ```
 vim performance_script.py
 ```
-You can also nano and other text editors. Once you opened the file, copy and paste the full script then save and exit.
+You can also use nano and other text editors. Once you have opened the file, copy and paste the full script, then save and exit.
 
 # Step 5: Run the Script
 This is the final step. Once you've saved the script and exited, you can run it using the following command:
