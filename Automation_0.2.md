@@ -1,8 +1,8 @@
 # Jan 1: Week_2: Explanation of the script:
 
-This blog will include the explanation of my automation script. Its important you read it as it will give you a full understanding of the script and would help you modify it to suit your needs.
+This blog includes the explanation of my automation script. Its important you read it as it will give you a full understanding of the script and would help you modify it to suit your needs.
 
-I will explain the script in groups or lines to ease understanding. So, let's go through the code line by line:
+I will explain the script in groups or lines to ease understanding. So, let's go through the script group by group:
 
 # Group 1
 ```
@@ -77,3 +77,7 @@ if __name__ == "__main__":
 This block ensures that the **monitor_and_output** function is executed only if the script is run as the main program (not imported as a module).
 
 In summary, this Python script uses the psutil and speedtest libraries to monitor CPU and memory usage, as well as download and upload speeds. The **monitor_and_output** function continuously collects and prints this information in an infinite loop with a specified interval.
+
+In my next two blogs I would talk about the problems I faced while trying to develop the script and how I figured it out. Hopefully, they would provide solutions to problems you may face. The link is below
+
+## [Automation_blog3](Automation_0.3.md)
