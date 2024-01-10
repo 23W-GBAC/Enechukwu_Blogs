@@ -24,3 +24,25 @@ In conclusion, the collaboration with ChatGPT provided reassurance and validatio
 
 # Problem 2: Figuring out how to safely test and run my python script:
 When running a new script or like in my case, a new script for automation for the first time, one of the paramount concerns is ensuring that your code is tested and run in a controlled environment, preventing any damage to your computer system. As I delved into developing a Python script for monitoring PC performance and network connection, the question of where and how to safely test my script became a critical consideration. I knew that there were risks involved in running this script because its a script that would interact with system resources and errors in this script could lead to unintended consequences, potentially impacting the stability and functionality of my computer. To address this, I sought a solution that would allow me to test my script in isolation, shielding my system from any adverse effects.
+
+**The Solution:** 
+After various considerations, I decided to run my script on Ubuntu. I chose Ubuntu because I'm familiar with the environment and commands. However, I had no idea on how to safely run my script in Ubuntu without any adverse effect. This is where chatgpt came in. I consulted ChatGPT to refine my approach and seek recommendations for best practices in testing Python scripts.
+```
+Me: "I'm working on a Python script, and I want to ensure that I can test it safely on Ubuntu without affecting my system. What are the best practices?"
+
+ChatGPT: "Consider using a virtual environment to create an isolated space for your project. This way, you can install dependencies without interfering with your system's Python environment. It's a common practice in Python development."
+```
+Chatgpt also showed me how to run it and I will share it with you.
+```
+# Install virtualenv
+sudo apt-get install python3-venv
+
+# Create a virtual environment
+python3 -m venv myenv
+
+# Activate the virtual environment
+source myenv/bin/activate
+```
+This should be done in the directory you want to run your code in. The virtual environment helped me to isolate my script, ensuring that changes made during script execution were confined to the virtual environment. Also, it is easy to cleanup, you can deactivate and delete the virtual environment.
+
+In conclusion, prioritizing safety in a script development process is essential. Virtual environments on Ubuntu, coupled with recommendations from ChatGPT, provided a robust solution for testing Python scripts securely.
