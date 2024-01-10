@@ -43,6 +43,10 @@ python3 -m venv myenv
 # Activate the virtual environment
 source myenv/bin/activate
 ```
-This should be done in the directory you want to run your code in. The virtual environment helped me to isolate my script, ensuring that changes made during script execution were confined to the virtual environment. Also, it is easy to cleanup, you can deactivate and delete the virtual environment.
+This should be done in the directory you want to run the script in. The virtual environment helped me to isolate my script, ensuring that changes made during script execution were confined to the virtual environment. Also, it is easy to cleanup, you can deactivate and delete the virtual environment.
 
 In conclusion, prioritizing safety in a script development process is essential. Virtual environments on Ubuntu, coupled with recommendations from ChatGPT, provided a robust solution for testing Python scripts securely.
+
+In my next and final blog, I would be sharing more problems I encountered and the way I solved these problems. You can click on the link below to access it. See you there!
+
+## [Automation_blog4](Automation_0.4.md)
