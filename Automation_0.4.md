@@ -34,14 +34,14 @@ vim monitor.py
 This opens the Vim text editor, allowing you to input and edit your Python script.
 
 **Step 3: Writing the Python Script in Vim:**
-Press i to Enter Insert Mode:
-Vim has different modes, and pressing i allows you to start inserting text.
+Press 'i' to Enter Insert Mode:
+Vim has different modes, and pressing 'i' allows you to start inserting text.
 
 Write Your Python Script:
-Input your Python script into Vim. Once done, press Esc to exit Insert Mode.
+Input your Python script into Vim. Once done, press 'Esc' to exit Insert Mode.
 
 Save and Exit Vim:
-Save your changes by typing :w and pressing Enter. To exit Vim, type :q and press Enter. If you've made changes, you can combine both commands by typing ':wq'.
+Save your changes by typing ':w' and pressing 'Enter'. To exit Vim, type ':q' and press Enter. If you've made changes, you can combine both commands by typing ':wq'.
 
 **Step 4: Setting Execution Permissions:**
 **Navigate to the Script Directory:**
@@ -140,10 +140,10 @@ Functions were introduced to encapsulate specific functionalities, making the co
 Descriptive names were chosen for functions and variables, providing clarity on their roles.
 
 **Main Function:**
-The main functionality was encapsulated within the monitor_and_output function, making it more organized and easy to follow.
+The main functionality was encapsulated within the 'monitor_and_output' function, making it more organized and easy to follow.
 
 **Script Entrypoint:**
-The if __name__ == "__main__": block was included to ensure that the script runs only when executed directly, not when imported as a module.
+The 'if __name__ == "__main__":' block was included to ensure that the script runs only when executed directly, not when imported as a module.
 
 In conclusion, the journey to organize my Python script taught me valuable lessons in code structure and readability. With a combination of best practices and guidance from ChatGPT, the transformation was significant. The resulting script not only functions effectively but is also a testament to the importance of clear organization in facilitating collaboration and maintainability. 
 
