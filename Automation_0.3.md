@@ -22,7 +22,7 @@ ChatGPT: "Using psutil for CPU and memory monitoring is a solid choice; it's wid
 
 In conclusion, the collaboration with ChatGPT provided reassurance and validation for my library choices. It emphasized the importance of considering factors such as reliability, community support, and ease of use when making such decisions. I've come to appreciate the significance of a well-informed library selection. It not only streamlines development but also lays the foundation for a robust and efficient automation solution.
 
-# Problem 2: Figuring out how to safely test and run my python script:
+# Problem 2: Figuring out how to safely test my python script:
 When running a new script or like in my case, a new script for automation for the first time, one of the paramount concerns is ensuring that your code is tested and run in a controlled environment, preventing any damage to your computer system. As I delved into developing a Python script for monitoring PC performance and network connection, the question of where and how to safely test my script became a critical consideration. I knew that there were risks involved in running this script because its a script that would interact with system resources and errors in this script could lead to unintended consequences, potentially impacting the stability and functionality of my computer. To address this, I sought a solution that would allow me to test my script in isolation, shielding my system from any adverse effects.
 
 **The Solution:** 
