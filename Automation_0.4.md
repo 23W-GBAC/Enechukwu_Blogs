@@ -147,5 +147,9 @@ The if __name__ == "__main__": block was included to ensure that the script runs
 
 In conclusion, the journey to organize my Python script taught me valuable lessons in code structure and readability. With a combination of best practices and guidance from ChatGPT, the transformation was significant. The resulting script not only functions effectively but is also a testament to the importance of clear organization in facilitating collaboration and maintainability. 
 
-I hope these problem and solution blogs were helpful. If you have read my blog from beginning to this moment, I really do appreciate. If you haven't or you started from this blog, I advice you read the others as they are all connected. Below, I have attached the link to other blogs.
+I hope these problem and solution blogs were helpful. If you have read my blog from beginning to this moment, I really do appreciate. If you haven't or you started from this blog, I advice you read the others as they are all connected. Below, I have attached the link to my other blogs.
 
+## [Blog on Health benefits of video gaming](README.md)
+## [Automation_blog1](Automation_0.1.md)
+## [Automation_blog2](Automation_0.2.md)
+## [Automation_blog3](Automation_0.3.md)
