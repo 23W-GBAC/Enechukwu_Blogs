@@ -63,10 +63,10 @@ def monitor_and_output():
 The def function defines the main function **monitor_and_output**. It contains an infinite loop (while True) to continuously monitor and output system and network information. Inside the loop:
 - CPU and memory usage are obtained using the previously defined functions.
 - Network speed is measured using the get_network_speed function.
-- The information is then printed to the console, displaying CPU and memory usage percentages, as well as download and 
-  upload speeds in Mbps.
-- There is a 5-second delay (time.sleep(5)) at the end of each iteration to control the monitoring interval. You can adjust 
-  this value based on how often you want to collect data.
+- The information is then printed to the console, displaying CPU and memory usage percentages, 
+  as well as download and upload speeds in Mbps.
+- There is a 5-second delay (time.sleep(5)) at the end of each iteration to control the 
+  monitoring interval. You can adjust this value based on how often you want to collect data.
 
 # Group 6
 ```
@@ -76,8 +76,8 @@ if __name__ == "__main__":
 
 This block ensures that the **monitor_and_output** function is executed only if the script is run as the main program (not imported as a module).
 
-In summary, this Python script uses the psutil and speedtest libraries to monitor CPU and memory usage, as well as download and upload speeds. The **monitor_and_output** function continuously collects and prints this information in an infinite loop with a specified interval.
+In conclusion, this Python script uses the psutil and speedtest libraries to monitor CPU and memory usage, as well as download and upload speeds. The **monitor_and_output** function continuously collects and prints this information in an infinite loop with a specified interval.
 
 In my next two blogs I would talk about the problems I faced while trying to develop the script and how I figured it out. Hopefully, they would provide solutions to problems you may face. The link is below
 
-## [Automation_blog3](Automation_0.3.md)
+## [3rd_Automation](Automation_0.3.md)

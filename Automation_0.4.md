@@ -150,6 +150,6 @@ In conclusion, the journey to organize my Python script taught me valuable lesso
 I hope these problem and solution blogs were helpful. If you have read my blog from beginning to this moment, I really do appreciate. If you haven't or you started from this blog, I advice you read the others as they are all connected. Below, I have attached the link to my other blogs.
 
 ## [Blog on Health benefits of video gaming](README.md)
-## [Automation_blog1](Automation_0.1.md)
-## [Automation_blog2](Automation_0.2.md)
-## [Automation_blog3](Automation_0.3.md)
+## [1st_Automation](Automation_0.1.md)
+## [2nd_Automation](Automation_0.2.md)
+## [3rd_Automation](Automation_0.3.md)
