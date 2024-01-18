@@ -95,7 +95,7 @@ pip install psutil speedtest-cli
 
 # Step 4: Save the script in a file
 The next step is to create a file (e.g., performance_script.py), copy and paste the Python script into it and save it.
-You can create a file using the following command
+You can create a file using the following command.
 ```
 touch performance_script.py
 ```
