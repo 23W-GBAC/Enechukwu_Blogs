@@ -36,10 +36,10 @@ def monitor_and_output():
         
         download_speed, upload_speed = get_network_speed()
   
-        print(f"CPU Usage: {cpu_usage}% | Memory Usage: {memory_usage}%")
-        print(f"Download Speed: {download_speed:.2f} Mbps | Upload Speed: {upload_speed:.2f} Mbps")
+    print(f"CPU Usage: {cpu_usage}% | Memory Usage: {memory_usage}%")
+    print(f"Download Speed: {download_speed:.2f} Mbps | Upload Speed: {upload_speed:.2f} Mbps")
 
-        time.sleep(5)
+     time.sleep(5)
 
 if __name__ == "__main__":
     monitor_and_output()
