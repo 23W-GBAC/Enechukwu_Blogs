@@ -56,7 +56,7 @@ Create a new directory on your cli.
 ```
 mkdir my_directory
 ```
-Change 'my_directory' to whatever name you want.
+Change 'my_directory' to any name you want.
 
 In the new directory, create a virtual environment. Using a virtual environment in cli allows you to create isolated Python environments for your projects, each with its own set of dependencies. This helps prevent conflicts between different projects that might require different package versions.
 Run the following commands to create a virtual environment:
@@ -118,6 +118,6 @@ Once you're done running the script, you can stop it using **ctrl+c** to stop ru
 deactivate
 ```
 
-My next blog gives a proper explanation of the script, its important you read it as it will help you understand the script and modify it to suit your needs. You can access my next blog by clicking the link below.
+My next blog gives a proper explanation of the script, its important you read it because it will help you understand the script and modify it to suit your needs. You can access my next blog by clicking the link below.
 
-## [Automation_blog2](Automation_0.2.md)
+## [2nd_Automation](Automation_0.2.md)
