@@ -49,4 +49,4 @@ In conclusion, prioritizing safety in a script development process is essential.
 
 In my next and final blog, I would be sharing more problems I encountered and the way I solved these problems. You can click on the link below to access it. See you there!
 
-## [Automation_blog4](Automation_0.4.md)
+## [3rd_Automation](Automation_0.4.md)
