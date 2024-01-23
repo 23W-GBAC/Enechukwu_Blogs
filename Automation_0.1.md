@@ -119,6 +119,8 @@ This block ensures that the **monitor_and_output** function is executed only if 
 In conclusion, this Python script uses the **psutil** and **speedtest** libraries to monitor CPU and memory usage, as well as download and upload speeds. The **monitor_and_output** function continuously collects and prints this information in an infinite loop with a specified interval.
 
 
+
+
 # HOW TO PROPERLY RUN THE SCRIPT:
 After a lot of trial and error in trying to figure out how to run the script properly which I will share on my other blogs, I was finally able to figure out how to run it properly. I will explain it in steps to ease understanding.
 
