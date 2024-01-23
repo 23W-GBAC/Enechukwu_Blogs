@@ -1,10 +1,10 @@
 ![image](https://github.com/23W-GBAC/Boves556_Lucky/assets/148862792/6f942e35-2a2d-4da0-81d6-59e37749596f)
 # Video Gaming health benefits
-My name Lucky, a 1st semester student of Deggendorf Institute of Technology. My blog is about one of the most underrated and disregarded activities in our society which is video gaming. The aim of this blog is to convince its readers that video gaming has some vital health benefits.
+My name Lucky, a 1st semester student of Deggendorf Institute of Technology. My blog is about one of the most underrated and disregarded activities in our society which is video gaming. The aim of this blog is to convince its readers that video gaming has some vital health benefits. The reason I chose this topic is because it really connects with me. Video gaming is like my personal escape. It helps me relax and think better. Playing games has made my hands and eyes work together more smoothly, and that's been useful in everyday stuff. Plus, the friends I've made in gaming make me feel good and help me deal with everyday things. It's like each game is a little adventure that really helps me in my own life.
 
 Before we proceed, it's important to point out that like other activities, when video gaming is excessively done, there would be disadvantages; too much of an activity is not good, there should always be a balance. When done in **moderation and with awareness**, Video gaming can offer several health-related advantages. 
 
-Here are some of the positive health-related benefits associated with video gaming:
+**Here are some of the positive health-related benefits associated with video gaming:**
 # Stress Reduction:
 Video gaming provides an effective means of escapism, allowing individuals to disconnect from real-life stressors. Achieving in-game goals boosts self-esteem, and multiplayer games facilitate social connections, reducing stress. The release of neurotransmitters like dopamine and endorphins contributes to mood regulation and a sense of reward.
 
@@ -43,7 +43,8 @@ Video gaming serves as a powerful tool in education, promoting interactive and e
 # Social Support:
 Video gaming fosters connections and communities, providing a conduit for social support. Online multiplayer games facilitate friendships, collaboration, and support networks, offering emotional support within gaming communities.
 
-These positive health benefits underscore the diverse and valuable aspects of video gaming beyond mere entertainment. It's important to note that the benefits of video gaming can vary depending on the type of games played, the amount of time spent gaming, and the individual's overall lifestyle. For optimal health benefits, **moderation is key**. It's also crucial to be mindful of potential drawbacks, such as sedentary behavior, excessive screen time, and addiction. Balancing gaming with physical activity, social interaction, and other healthy habits is essential for overall well-being.
+
+It's important to note that the benefits of video gaming can vary depending on the type of games played, the amount of time spent gaming, and the individual's overall lifestyle. For optimal health benefits, **moderation is key**. It's also crucial to be mindful of potential drawbacks, such as sedentary behavior, excessive screen time, and addiction. Balancing gaming with physical activity, social interaction, and other healthy habits is essential for overall well-being.
 
 ###### **Source(s):** 
 ChatGPT, Unsplash, National Library of Medicine (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3772618/)
