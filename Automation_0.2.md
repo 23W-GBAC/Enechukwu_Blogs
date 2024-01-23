@@ -1,82 +1,51 @@
-# Jan 1: Week_2: Explanation of the script:
+# Jan 1: Week_2: Cost-Benefit Analysis of My Automation Journey: A Personal Perspective
 
-This blog includes the explanation of my automation script. Its important you read it as it will give you a full understanding of the script and would help you modify it to suit your needs.
+Embarking on the journey of automation has been a significant undertaking for me, both in terms of time invested and resources utilized. As I reflect on the process and consider the potential long-term gains, the question of whether my automation efforts are economically beneficial naturally arises. In this blog, I'll delve into the specifics, sharing insights into the time and resources dedicated to automation, as well as the anticipated savings over the next five years.
 
-I will explain the script in groups or lines to ease understanding. So, let's go through the script group by group:
+### **The Initial Investment:**
 
-# Group 1
-```
-import psutil
-import speedtest
-import time
-```
-These lines import the necessary libraries needed to ensure the code runs properly. 
+Implementing automation in any project requires a considerable initial investment, ranging from the time spent researching and planning to the resources allocated for development and testing. In my case, developing a Python script for monitoring PC performance and network connection involved a thoughtful consideration of various factors, including script functionality, libraries, and platform compatibility.
 
-The **psutil** library provides an interface to retrieve system utilization information, like CPU, memory, disk, and network usage. It makes the process of monitoring and interacting with system resources easier and it also offers functions to gather real-time data on processes and system performance. You can access vital information about a system's state, enable efficient resource management and automate system-related tasks with psutil.
+**Time Investment:**
+The research phase alone demanded a significant chunk of time, I would say weeks infact, as I explored relevant Python libraries, consulted documentation, and refined the scope of my automation project. Writing and testing the script further added to the time investment, with a focus on ensuring reliability and adaptability to different system configurations.
 
-The **speedtest** library in Python facilitates network speed testing by connecting to Speedtest.net servers. It measures download and upload speeds, aiding in assessing internet connection performance. The library enables coders to integrate network speed tests into their applications. This can be valuable for diagnosing connection issues and optimizing network-related processes.
+**Resource Utilization:**
+Beyond time, there were resource considerations, including the use of a virtual environment for safe testing and development. The script's reliance on external libraries such as psutil and speedtest meant incorporating these resources into the project.
 
-The **time** library is a module that provides functions to manipulate time, measure elapsed time, and create delays in code execution. Basically, it can be used to create time intervals.
+### **Anticipated Savings Over the Next 5 Years:**
 
-# Group 2
-```
-def get_cpu_usage():
-    return psutil.cpu_percent(interval=1)
-```
+While the initial investment was substantial, the real measure of the economic benefit lies in the savings and efficiencies gained over time. Here's a breakdown of how my automation project is poised to contribute to time and resource savings in the next five years:
 
-This defines a function **get_cpu_usage** that uses the psutil library to measure CPU usage percentage. The interval parameter is set to 1, meaning the CPU usage will be measured over a 1-second interval.
+**Time Efficiency:**
+The primary purpose of the automation script is to consistently monitor PC performance and network connection. In a manual scenario, performing these checks regularly would consume a non-trivial amount of time. With automation, these checks happen seamlessly in the background, freeing up valuable time for more strategic and creative tasks.
 
-# Group 3
-```
-def get_memory_usage():
-    return psutil.virtual_memory().percent
-```
+**Reduced Downtime:**
+By proactively monitoring and identifying potential issues, the automation script contributes to minimizing system downtime. This translates to increased productivity as disruptions are addressed promptly, reducing the time and resources that would be spent troubleshooting and resolving issues reactively.
 
-This defines a function **get_memory_usage** to retrieve the percentage of used virtual memory using psutil.
+**Long-Term Adaptability:**
+As technology evolves, the script can be adapted and updated to accommodate changes in system requirements or incorporate new features. This long-term adaptability contributes to sustained savings by avoiding the need for frequent overhauls or replacements.
 
-# Group 4
-```
-def get_network_speed():
-    st = speedtest.Speedtest()
-    download_speed = st.download() / 10**6  
-    upload_speed = st.upload() / 10**6 
-    return download_speed, upload_speed
-```
+**Resource Optimization:**
+The script's efficiency in resource utilization is a key factor in its economic benefit. It operates with minimal impact on system resources, ensuring that the monitoring process itself doesn't introduce inefficiencies or consume excessive computing power.
 
-This defines a function **get_network_speed** that uses the speedtest library to measure download and upload speeds in megabits per second (Mbps). The **download_speed** and **upload_speed** contains a formula that converts the download and upload speed to Mbps.
+### **Economic Benefit Assessment:**
 
-# Group 5
-```
-def monitor_and_output():
-    while True:
-        cpu_usage = get_cpu_usage()
-        memory_usage = get_memory_usage()
+Now, the critical question: Is my automation economically beneficial? The answer hinges on the balance between the initial investment and the anticipated savings over the next five years.
 
-        download_speed, upload_speed = get_network_speed()
+**Positive ROI:**
+Considering the time and resource savings outlined, the Return on Investment (ROI) is poised to be positive. The initial investment, though significant, becomes a worthwhile expenditure when weighed against the efficiency gains and reduced downtime facilitated by the automation script.
 
-        print(f"CPU Usage: {cpu_usage}% | Memory Usage: {memory_usage}%")
-        print(f"Download Speed: {download_speed:.2f} Mbps | Upload Speed: {upload_speed:.2f} Mbps")
+**Increased Productivity:**
+From a productivity standpoint, the automation script enhances my workflow by handling repetitive monitoring tasks. This efficiency boost contributes to a more streamlined and productive work environment.
 
-        time.sleep(5)
-```
+**Valuable Learning Experience:**
+Beyond the economic perspective, the automation journey has provided invaluable learning experiences. The skills acquired in scripting, problem-solving, and project management are assets that extend beyond this specific project.
 
-The def function defines the main function **monitor_and_output**. It contains an infinite loop (while True) to continuously monitor and output system and network information. Inside the loop:
-- CPU and memory usage are obtained using the previously defined functions.
-- Network speed is measured using the get_network_speed function.
-- The information is then printed to the console, displaying CPU and memory usage percentages, 
-  as well as download and upload speeds in Mbps.
-- There is a 5-second delay (time.sleep(5)) at the end of each iteration to control the 
-  monitoring interval. You can adjust this value based on how often you want to collect data.
+### **Final Thoughts:**
 
-# Group 6
-```
-if __name__ == "__main__":
-    monitor_and_output()
-```
+In conclusion, my automation journey has been a nuanced exploration of balancing initial investments with long-term gains. While the upfront costs were tangible in terms of time and resources, the script's efficiency, adaptability, and time savings position it as a valuable asset over the next five years.
 
-This block ensures that the **monitor_and_output** function is executed only if the script is run as the main program (not imported as a module).
-
-In conclusion, this Python script uses the psutil and speedtest libraries to monitor CPU and memory usage, as well as download and upload speeds. The **monitor_and_output** function continuously collects and prints this information in an infinite loop with a specified interval.
+As I continue to refine and expand my automation toolkit, the economic benefits extend beyond immediate time and resource savings. The script represents an investment in efficiency, productivity, and skill development, all contributing to a more sustainable and resilient approach to managing technology.
 
 In my next two blogs I would talk about the problems I faced while trying to develop the script and how I figured it out. Hopefully, they would provide solutions to problems you may face. The link is below
 
