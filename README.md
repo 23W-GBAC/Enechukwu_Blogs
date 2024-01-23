@@ -1,0 +1,1 @@
+This Repository contains projects from my General Bussiness and Accounting Classes. It contains a blog on the topic- Health Benefits of Video gaming. It also contain files of an Automation Project I took part in.
