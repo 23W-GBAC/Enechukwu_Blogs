@@ -1,4 +1,4 @@
-# Jan 1: Week_2: Cost-Benefit Analysis of My Automation Journey: A Personal Perspective
+# Jan 23: Week_2: Cost-Benefit Analysis of My Automation Journey: A Personal Perspective
 
 Embarking on the journey of automation has been a significant undertaking for me, both in terms of time invested and resources utilized. As I reflect on the process and consider the potential long-term gains, the question of whether my automation efforts are economically beneficial naturally arises. In this blog, I'll delve into the specifics, sharing insights into the time and resources dedicated to automation, as well as the anticipated savings over the next five years.
 
