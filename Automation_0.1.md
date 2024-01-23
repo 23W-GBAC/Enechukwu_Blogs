@@ -118,6 +118,6 @@ Once you're done running the script, you can stop it using **ctrl+c** to stop ru
 deactivate
 ```
 
-My next blog gives a proper explanation of the script, its important you read it because it will help you understand the script and modify it to suit your needs. You can access my next blog by clicking the link below.
+On my next blog, I will be sharing the Cost-Benefit Analysis of My Automation Journey. You can access my next blog by clicking the link below.
 
 ## [2nd_Automation](Automation_0.2.md)
