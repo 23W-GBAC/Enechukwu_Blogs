@@ -1,13 +1,12 @@
 # Dec 23: Week_1: Introduction to my automation script and how to run it:
 
-My blog will be divided into four parts and I will be adding a link to the next automation blog at the end of each blog. Please, feel free to contribute to my blog, by doing so, we can improve the script and share ideas on how to make it better. Also let me know if you encounter any problems while running the script.
-
-My first blog provides an introduction to my script and how to run it properly. Its important to note that the language used to run the script is python.
-
-# INTRODUCTION:
 Have you ever wondered how much of your computer's processing power is being used or how quickly it's communicating with the internet while gaming? These are crucial questions a gamer should always ask, especially gamers that play games like Call of duty and other games that require a stable internet connection and peek perfomance.
 
 My Python script provides a straight forward answer to these questions. Its important to note that this script can also be used by non-gamers that need constant information regarding their computer performance and internet speed. So!, lets get right into it.
+
+Its important to know that my blog will be divided into four parts and I will be adding a link to the next automation blog at the end of each blog. Please, feel free to contribute to my blog, by doing so, we can improve the script and share ideas on how to make it better. Also let me know if you encounter any problems while running the script.
+
+My first blog provides an introduction to my script and how to run it properly. Its important to note that the language used to run the script is python.
 
 # FULL AUTOMATION SCRIPT:
 **Note:** Please do not run the script until you have read how to run it.
