@@ -11,7 +11,7 @@ I decided to divide my searches into various categories to make it easier to fin
 
 ![image](https://github.com/23W-GBAC/Enechukwu_Blogs/assets/148862792/c99f93ce-67e9-48e8-817c-83dd6c9ae095)
 
-My next search was for a library that could **test the network speed**. For network speed testing, my research led me to speedtest-cli. This library taps into the Speedtest.net infrastructure, allowing easy and accurate measurement of download and upload speeds. I also figure out how to properly use the library from this website- https://www.tutorialspoint.com/application-for-internet-speed-test-using-pyspeedtest-in-python#:~:text=Pyspeedtest%20is%20a%20Python%20library,of%20an%20internet%20connection%20programmatically.
+My next search was for a library that could **test the network speed**. For network speed testing, my research led me to speedtest-cli. This library taps into the Speedtest.net infrastructure, allowing easy and accurate measurement of download and upload speeds. I also figure out how to properly use the library from this website- https://www.tutorialspoint.com/application-for-internet-speed-test-using-pyspeedtest-in-python#:~:text=Pyspeedtest%20is%20a%20Python%20library,of%20an%20internet%20connection%20programmatically
 
 Before I came to a conclusion on the libraries, just for good measure, I quickly went to my very good friend Chatgpt for reassurance and validation of my choice. 
 ```
@@ -19,6 +19,8 @@ Me: "I'm working on a Python script to monitor PC performance and network connec
 
 ChatGPT: "Using psutil for CPU and memory monitoring is a solid choice; it's widely used and reliable. Similarly, speedtest-cli is a convenient library for network speed testing. Your selections align well with your objectives."
 ```
+
+For the **smtplib** library, I had already worked with this while I was learning how to code in python. It was the 1st library that came to mind when I needed a library that could send emails.
 
 In conclusion, the collaboration with ChatGPT provided reassurance and validation for my library choices. It emphasized the importance of considering factors such as reliability, community support, and ease of use when making such decisions. I've come to appreciate the significance of a well-informed library selection. It not only streamlines development but also lays the foundation for a robust and efficient automation solution.
 
