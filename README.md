@@ -50,6 +50,6 @@ It's important to note that the benefits of video gaming can vary depending on t
 ###### **Source(s):** 
 ChatGPT, Unsplash, National Library of Medicine (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3772618/)
 
-One of the major problems gamers encounter is inconsistent performance and network issues. These problems are mostly encountered by PC gamers. They mostly encounter these problems because they are not able to always know their internet speed test, GPU and CPU usage. In my automation blog, I have provided a solution to this problem, I have written a script that constantly checks the CPU speed and Internet speed on intervals based on users preference. You can click on the Automation link below to access this information.
+One of the major problems gamers encounter is inconsistent performance and network issues. These problems are mostly encountered by PC gamers. They mostly encounter these problems because they are not able to always know their internet speed test, GPU and CPU usage. In my automation blog, I have provided a solution to this problem, I have written a script that constantly checks the CPU speed and Internet speed on intervals based on users preference and automatically sends an email to the internet provider when a speed is below a certain level. You can click on the Automation link below to access this information.
 
 ## [Automation_blog1](Automation_0.1.md)
