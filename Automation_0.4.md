@@ -142,17 +142,16 @@ if __name__ == "__main__":
 ```
 
 **The Transformation:**
+The first step was to break down the script into logical sections. Each function found its home, and related statements were grouped together. This not only made the script more navigable but also facilitated easier debugging and modification in the future.
+
 **Modular Functions:**
-Functions were introduced to encapsulate specific functionalities, making the code more modular.
+Functions were properly defined to encapsulate specific functionalities, making the code more modular.
 
 **Descriptive Naming:**
 Descriptive names were chosen for functions and variables, providing clarity on their roles.
 
 **Main Function:**
 The main functionality was encapsulated within the 'monitor_and_output' function, making it more organized and easy to follow.
-
-**Script Entrypoint:**
-The 'if __name__ == "__main__":' block was included to ensure that the script runs only when executed directly, not when imported as a module.
 
 In conclusion, the journey to organize my Python script taught me valuable lessons in code structure and readability. With a combination of best practices and guidance from ChatGPT, the transformation was significant. The resulting script not only functions effectively but is also a testament to the importance of clear organization in facilitating collaboration and maintainability. 
 
